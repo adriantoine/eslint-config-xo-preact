@@ -52,7 +52,7 @@
   "devDependencies": {
     "ava": "*",
     "eslint": "^3.9.0",
-    "eslint-plugin-react": "^6.4.1",
+    "eslint-plugin-react": "^6.5.0",
     "is-plain-obj": "^1.0.0",
     "temp-write": "^2.1.0"
   },
