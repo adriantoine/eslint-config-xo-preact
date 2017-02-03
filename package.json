@@ -50,7 +50,7 @@
     "simple"
   ],
   "devDependencies": {
-    "ava": "0.17.0",
+    "ava": "0.18.1",
     "eslint": "^3.13.0",
     "eslint-plugin-react": "^6.8.0",
     "is-plain-obj": "^1.0.0",
